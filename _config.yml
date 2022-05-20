@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gosia Majewska"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Gosia Majewska"
 description              : &description "personal description"
 url                      : https://gosia-majewska.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
