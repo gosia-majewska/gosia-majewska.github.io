@@ -12,7 +12,7 @@ author_profile: true
 
 Presentations: Workshop on the Economics of Antibiotics, Toulouse; INAMRSS/CeBIL AMR Workshop, Copenhagen
 
-### [**Mergers and Advertising in the Pharmaceutical Industry**](https://gosia-majewska.github.io/files/merger_advertising_Nov2022.pdf) with Pierre Dubois
+### [**Mergers and Advertising in the Pharmaceutical Industry**](https://gosia-majewska.github.io/files/merger_advertising_Nov2022.pdf) (with [Pierre Dubois](https://pierredubois.github.io/))
 
 >In many industries, market structure determines how firms not only compete in terms of prices but also utilize promotional activities. We study how price and advertising strategies change when firms merge in pharmaceutical markets in the US. We show that across all drug markets, although mergers indeed increase prices, advertising spending also decreases. Merger simulations not accounting for advertising reductions may thus obtain biased price effects. Considering the merger effects of two large pharmaceutical companies on an antimicrobial drug market, we estimate a structural model of supply and demand and simulate the merger effect. We find that the merger effect on prices is smaller given the reduction in the amount of advertising. We also provide a simple method through which to evaluate long-term welfare effects using some known value of the sensitivity of innovation to profits.
 
@@ -21,6 +21,6 @@ Presentations:  MaCCI Annual Conference, Mannheim;  ENTER Seminar, Stockholm Sch
 
 ### Work in Progress
 
-**Drug Shortages** with Pierre Dubois
+**Drug Shortages** (with [Pierre Dubois](https://pierredubois.github.io/))
 
-**Mergers and Innovation in the Pharmaceutical Industry** with Pierre Dubois
+**Mergers and Innovation in the Pharmaceutical Industry** (with [Pierre Dubois](https://pierredubois.github.io/))
