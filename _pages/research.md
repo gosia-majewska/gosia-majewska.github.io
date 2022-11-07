@@ -19,7 +19,7 @@ Presentations: Workshop on the Economics of Antibiotics, Toulouse; INAMRSS/CeBIL
 Presentations:  MaCCI Annual Conference, Mannheim;  ENTER Seminar, Stockholm School of Economics; EEA, Milan; EARIE, Vienna;
 
 
-### Work in Progress
+### Work in Progress:
 
 **Drug Shortages** (with [Pierre Dubois](https://pierredubois.github.io/))
 
