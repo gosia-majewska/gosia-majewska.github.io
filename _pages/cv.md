@@ -10,3 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [CV](https://gosia-majewska.github.io/files/Gosia_Majewska.pdf)
+
+
+<embed src="https://gosia-majewska.github.io/files/Gosia_Majewska.pdf" type="application/pdf">
