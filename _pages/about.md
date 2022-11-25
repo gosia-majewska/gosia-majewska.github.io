@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Gosia Majewska and I am a [PhD candidate](https://www.tse-fr.eu/people/gosia-majewska) at the Toulouse School of Economics. I am a health and industrial organization economist, with a particular interest in the pharmaceutical industry.
+My name is Gosia Majewska and I am a [PhD candidate](https://www.tse-fr.eu/people/gosia-majewska) at the Toulouse School of Economics. I am a health and empirical industrial organization economist, with a particular interest in the pharmaceutical industry. I am interested in applied microeconomics, empirical industrial organization, and competition policy.
 
 **I am on the 2022/2023 job market and available for interviews.**
 
