@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-### [**Incentivizing Novelty in Antibiotic Development**](https://gosia-majewska.github.io/files/Majewska_JMP.pdf) - _Job Market Paper_
+### [**Incentivizing Novelty in Antibiotic Development**](https://gosia-majewska.github.io/files/Majewska_JMP.pdf) 
 
 >In antibiotics, a constant supply of new products is needed as bacteria become resistant to the existing drugs. I estimate the effectiveness of innovation incentives for antibiotics, introduced in 2012. In a difference-in-differences framework, I find that the incentives have a positive effect on clinical trial success rates, but only for projects using known technologies. To assess the long-term effect of the incentives on market entry, I set up a dynamic structural model of pharmaceutical innovation. The multi agent setting of the model allows the firm decisions to depend not only on the projects' expected cost and profit, but also on the outcomes of technologically close projects. Counterfactual simulations show a 20% increase in the number of market entries due the current incentive scheme, driven mostly by research subsidies.
 
-Presentations: Workshop on the Economics of Antibiotics, Toulouse; INAMRSS/CeBIL AMR Workshop, Copenhagen
+Presentations: Workshop on the Economics of Antibiotics, Toulouse; INAMRSS/CeBIL AMR Workshop, Copenhagen; Aalto University, Helsinki; University of Copenhagen; McGill University, Montreal; ZEW Mannheim; ESSEC Business School, Paris; University of Geneva; IIOC, DC (upcoming); CEPR Health Conference, Toulouse (upcoming);
 
 ### [**Mergers and Advertising in the Pharmaceutical Industry**](https://gosia-majewska.github.io/files/merger_advertising_Nov2022.pdf) (with [Pierre Dubois](https://pierredubois.github.io/))
 
@@ -18,9 +18,12 @@ Presentations: Workshop on the Economics of Antibiotics, Toulouse; INAMRSS/CeBIL
 
 Presentations:  MaCCI Annual Conference, Mannheim;  ENTER Seminar, Stockholm School of Economics; EEA, Milan; EARIE, Vienna;
 
+### [**Drug Shortages**](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2023/wp_tse_1417.pdf) (with [Pierre Dubois](https://pierredubois.github.io/) and Valentina Reig)
+
+>Drug shortages are a problem widely documented around the world. We develop a simple method allowing to identify shortage events and their intensity using sales data at a national level. In the case of prescription drugs, shortages occur when the quantities supplied do not meet demand at regulated prices. Using sales data only, shortages that are driven by supply shocks affect only the lower distribution of sales quantities and can be identified using a demand prediction model estimated on sales observed above a given quantile threshold. We can then measure the likelihood and the magnitude of shortage events. We provide evidence that lower French prices
+increase the likelihood and magnitude of shortages in France. However, higher prices in the UK seem to have positive spillover effects on reducing the likelihood of shortages, while a negative one when shortages happen and there is competition for scarce resources internationally. Finally, we provide evidence on the heterogeneous effects of shortage reductions achievable through higher regulated prices in France.
+
 
 ### Work in Progress:
-
-**Drug Shortages** (with [Pierre Dubois](https://pierredubois.github.io/))
 
 **Mergers and Innovation in the Pharmaceutical Industry** (with [Pierre Dubois](https://pierredubois.github.io/))
