@@ -23,14 +23,24 @@ Presentations: MaCCI Annual Conference, Mannheim;  ENTER Seminar, Stockholm Scho
 >Drug shortages are a problem widely documented around the world. We develop a simple method allowing to identify shortage events and their intensity using sales data at a national level. In the case of prescription drugs, shortages occur when the quantities supplied do not meet demand at regulated prices. Using sales data only, shortages that are driven by supply shocks affect only the lower distribution of sales quantities and can be identified using a demand prediction model estimated on sales observed above a given quantile threshold. We can then measure the likelihood and the magnitude of shortage events. We provide evidence that lower French prices
 increase the likelihood and magnitude of shortages in France. However, higher prices in the UK seem to have positive spillover effects on reducing the likelihood of shortages, while a negative one when shortages happen and there is competition for scarce resources internationally. Finally, we provide evidence on the heterogeneous effects of shortage reductions achievable through higher regulated prices in France.
 
-Presentations: European Workshop on Econometrics and Health Economics, Madrid; ESSEC internal seminar, Paris; EARIE, Amsterdam; Paris IO Day;
+Presentations: European Workshop on Econometrics and Health Economics, Madrid; ESSEC internal seminar, Paris; EARIE, Amsterdam; Paris IO Day; The Finnish Health Economics Seminar Series;
 
 
 ### **Universal Subsidies in Pharmaceutical Markets: Lessons from Poland’s Drugs 75+ Policy** (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/))
 
 >Widely used public policies fully subsidizing essential goods and services aim to improve access, but removing price signals may also produce distortions. We investigate this problem by leveraging Poland’s Drugs 75+ program, which provides free prescription medications to individuals aged 75 and older, as a natural experiment. Using a difference-in-discontinuities approach, event studies, and detailed administrative and survey data, we draw three main conclusions. First, the program reduced out-of-pocket medication expenditures for seniors, substantially alleviating the risk of catastrophic health costs. Second, it improved access: medication consumption increased, particularly for higher-cost products, to some extent displacing cheaper alternatives. Third, the shift in consumption patterns increased public payer costs per dose of treatment. These findings highlight the challenges of subsidy programs that eliminate price signals, as they can alter demand in ways that improve access but undermine cost-effectiveness.
 
-Presentations: ESSEC Internal Seminar; EuHEA Online Seminar; American-European Health Economics Study Group, Oxford (scheduled); 11th IRDES-LIRAES Workshop on Applied Health Economics and Policy Evaluation, Paris (scheduled); 3rd Health Economics Conference, Toulouse (scheduled);
+Presentations: ESSEC Internal Seminar; EuHEA Online Seminar; American-European Health Economics Study Group, Oxford; 11th IRDES-LIRAES Workshop on Applied Health Economics and Policy Evaluation, Paris; 3rd Health Economics Conference, Toulouse;
+
+
+### **The Financial and Behavioral Effects of Free Prescription Drugs: Evidence from a Policy Discontinuity in Poland** (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/)) R&R at Health Economics
+
+>We examine whether a universal drug subsidy for seniors in Poland provided effective financial protection and whether it induced ex ante moral hazard. The policy eliminated out-of-pocket costs for prescription medications while leaving all other
+healthcare coverage unchanged. Using detailed household expenditure data and a sharp age-based eligibility threshold, we implement a difference-in-discontinuities design to estimate causal effects. The reform reduced average medication spending
+and lowered the incidence of catastrophic drug expenditures by 62%, with gains concentrated in the upper tail of the spending distribution—consistent with insurance against large health shocks. Eligibility also led to higher spending on alcohol
+and cigarettes, indicative of reduced precautionary behavior, potentially consistent with ex ante moral hazard. These results highlight that while public subsidies can meaningfully reduce financial risk, they may also induce behavioral responses that
+partially offset intended health benefits.
+
 
 ### Work in Progress:
 
