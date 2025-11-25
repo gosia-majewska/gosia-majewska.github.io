@@ -26,7 +26,8 @@ increase the likelihood and magnitude of shortages in France. However, higher pr
 Presentations: European Workshop on Econometrics and Health Economics, Madrid; ESSEC internal seminar, Paris; EARIE, Amsterdam; Paris IO Day; The Finnish Health Economics Seminar Series;
 
 
-### [**Universal Subsidies in Pharmaceutical Markets: Lessons from Poland’s Drugs 75+ Policy**](https://gosia-majewska.github.io/files/Majewska_Zaremba.pdf)  (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/)) [Executive summmary in Polish](https://gosia-majewska.github.io/files/leki75_streszczenie_PL.pdf) 
+### [**Universal Subsidies in Pharmaceutical Markets: Lessons from Poland’s Drugs 75+ Policy**](https://gosia-majewska.github.io/files/Majewska_Zaremba.pdf)  (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/)) 
+[Executive summmary in Polish](https://gosia-majewska.github.io/files/leki75_streszczenie_PL.pdf) 
 
 >Widely used public policies fully subsidizing essential goods and services aim to improve access, but removing price signals may also produce distortions. We investigate this problem by leveraging Poland’s Drugs 75+ program, which provides free prescription medications to individuals aged 75 and older, as a natural experiment. Using a difference-in-discontinuities approach, event studies, and detailed administrative and survey data, we draw three main conclusions. First, the program reduced out-of-pocket medication expenditures for seniors, substantially alleviating the risk of catastrophic health costs. Second, it improved access: medication consumption increased, particularly for higher-cost products, to some extent displacing cheaper alternatives. Third, the shift in consumption patterns increased public payer costs per dose of treatment. These findings highlight the challenges of subsidy programs that eliminate price signals, as they can alter demand in ways that improve access but undermine cost-effectiveness.
 
