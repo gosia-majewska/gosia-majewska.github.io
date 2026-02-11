@@ -34,14 +34,12 @@ Presentations: European Workshop on Econometrics and Health Economics, Madrid; E
 Presentations: ESSEC Internal Seminar; EuHEA Online Seminar; American-European Health Economics Study Group, Oxford; 11th IRDES-LIRAES Workshop on Applied Health Economics and Policy Evaluation, Paris; 3rd Health Economics Conference, Toulouse; LIRAES Université Paris Cité; Department of Economics, University of Warsaw (scheduled);
 
 
-### **The Financial and Behavioral Effects of Free Prescription Drugs: Evidence from a Policy Discontinuity in Poland** (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/)) [Health Economics](https://doi.org/10.1002/hec.70083)
+### [**The Financial and Behavioral Effects of Free Prescription Drugs: Evidence from a Policy Discontinuity in Poland** ](ttps://gosia-majewska.github.io/files/budgets.pdf) (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/)) [Health Economics](https://doi.org/10.1002/hec.70083)
 
 >We examine whether a universal drug subsidy for seniors in Poland provided effective financial protection and whether it induced ex ante moral hazard. The policy eliminated out-of-pocket costs for prescription medications while leaving all other
 healthcare coverage unchanged. Using detailed household expenditure data and a sharp age-based eligibility threshold, we implement a difference-in-discontinuities design to estimate causal effects. The reform reduced average medication spending
-and lowered the incidence of catastrophic drug expenditures by 62%, with gains concentrated in the upper tail of the spending distribution—consistent with insurance against large health shocks. Eligibility also led to higher spending on alcohol
-and cigarettes, indicative of reduced precautionary behavior, potentially consistent with ex ante moral hazard. These results highlight that while public subsidies can meaningfully reduce financial risk, they may also induce behavioral responses that
-partially offset intended health benefits.
-
+and lowered the incidence of catastrophic drug expenditures by 62%, with gains concentrated in the upper tail of the spending distribution—consistent with insurance against large health shocks. On the non-medical margin, we find suggestive evidence
+of a modest increase in spending on a category of unhealthy goods—consistent with reduced precautionary behavior at the household level. These results highlight that while public subsidies can meaningfully reduce financial risk, they may also induce behavioral responses that partially offset intended health benefits.
 
 ### Work in Progress:
 
