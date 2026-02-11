@@ -34,7 +34,7 @@ Presentations: European Workshop on Econometrics and Health Economics, Madrid; E
 Presentations: ESSEC Internal Seminar; EuHEA Online Seminar; American-European Health Economics Study Group, Oxford; 11th IRDES-LIRAES Workshop on Applied Health Economics and Policy Evaluation, Paris; 3rd Health Economics Conference, Toulouse; LIRAES Université Paris Cité; Department of Economics, University of Warsaw (scheduled);
 
 
-### **The Financial and Behavioral Effects of Free Prescription Drugs: Evidence from a Policy Discontinuity in Poland** (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/)) R&R at Health Economics
+### **The Financial and Behavioral Effects of Free Prescription Drugs: Evidence from a Policy Discontinuity in Poland** (with [Krzysztof Zaremba](https://krzysztofzaremba.github.io/)) [Health Economics](https://doi.org/10.1002/hec.70083)
 
 >We examine whether a universal drug subsidy for seniors in Poland provided effective financial protection and whether it induced ex ante moral hazard. The policy eliminated out-of-pocket costs for prescription medications while leaving all other
 healthcare coverage unchanged. Using detailed household expenditure data and a sharp age-based eligibility threshold, we implement a difference-in-discontinuities design to estimate causal effects. The reform reduced average medication spending
