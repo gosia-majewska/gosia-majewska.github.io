@@ -18,7 +18,7 @@ Presentations: Workshop on the Economics of Antibiotics, Toulouse; INAMRSS/CeBIL
 
 Presentations: MaCCI Annual Conference, Mannheim;  ENTER Seminar, Stockholm School of Economics; EEA, Milan; EARIE, Vienna;
 
-### [**Regulated Prices, Global Capacity, and Drug Shortages**](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2023/wp_tse_1417.pdf) (with [Pierre Dubois](https://pierredubois.github.io/) and Valentina Reig)
+### [**Regulated Prices, Global Capacity, and Drug Shortages**](https://gosia-majewska.github.io/files/DuboisMajewskaReig.pdf) (with [Pierre Dubois](https://pierredubois.github.io/) and Valentina Reig)
 Previously circulated as _Drug Shortages: Empirical Evidence from France_
 
 >Drug shortages are a problem widely documented around the world. We develop a simple method allowing to identify shortage events and their intensity using sales data at a national level. In the case of prescription drugs, shortages occur when the quantities supplied do not meet demand at regulated prices. Using sales data only, shortages that are driven by supply shocks affect only the lower distribution of sales quantities and can be identified using a demand prediction model estimated on sales observed above a given quantile threshold. We can then measure the likelihood and the magnitude of shortage events. We provide evidence that lower French prices
